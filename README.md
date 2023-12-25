@@ -1,1 +1,1 @@
-# project-Diabetes-Prediction
+# ML-Project
